@@ -19,7 +19,6 @@ Using deep learning-based semantic segmentation, the system processes satellite 
 ## 📂 Dataset
 
 The dataset was manually annotated and processed using Roboflow.
-[View the Full Dataset on Roboflow Universe](urban-vegetation-project-2)
 
 ### 🔧 Key Techniques
 
